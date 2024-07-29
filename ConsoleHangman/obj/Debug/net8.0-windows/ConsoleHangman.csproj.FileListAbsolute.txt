@@ -1,0 +1,32 @@
+C:\Mymh\Hemma, IT, guider etc\Programmering\Fooling around\ConsoleHangman\ConsoleHangman\bin\Debug\net8.0-windows\ConsoleHangman.exe
+C:\Mymh\Hemma, IT, guider etc\Programmering\Fooling around\ConsoleHangman\ConsoleHangman\bin\Debug\net8.0-windows\ConsoleHangman.deps.json
+C:\Mymh\Hemma, IT, guider etc\Programmering\Fooling around\ConsoleHangman\ConsoleHangman\bin\Debug\net8.0-windows\ConsoleHangman.runtimeconfig.json
+C:\Mymh\Hemma, IT, guider etc\Programmering\Fooling around\ConsoleHangman\ConsoleHangman\bin\Debug\net8.0-windows\ConsoleHangman.dll
+C:\Mymh\Hemma, IT, guider etc\Programmering\Fooling around\ConsoleHangman\ConsoleHangman\bin\Debug\net8.0-windows\ConsoleHangman.pdb
+C:\Mymh\Hemma, IT, guider etc\Programmering\Fooling around\ConsoleHangman\ConsoleHangman\obj\Debug\net8.0-windows\ConsoleHangman.Main.resources
+C:\Mymh\Hemma, IT, guider etc\Programmering\Fooling around\ConsoleHangman\ConsoleHangman\obj\Debug\net8.0-windows\ConsoleHangman.csproj.GenerateResource.cache
+C:\Mymh\Hemma, IT, guider etc\Programmering\Fooling around\ConsoleHangman\ConsoleHangman\obj\Debug\net8.0-windows\ConsoleHangman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mymh\Hemma, IT, guider etc\Programmering\Fooling around\ConsoleHangman\ConsoleHangman\obj\Debug\net8.0-windows\ConsoleHangman.AssemblyInfoInputs.cache
+C:\Mymh\Hemma, IT, guider etc\Programmering\Fooling around\ConsoleHangman\ConsoleHangman\obj\Debug\net8.0-windows\ConsoleHangman.AssemblyInfo.cs
+C:\Mymh\Hemma, IT, guider etc\Programmering\Fooling around\ConsoleHangman\ConsoleHangman\obj\Debug\net8.0-windows\ConsoleHangman.csproj.CoreCompileInputs.cache
+C:\Mymh\Hemma, IT, guider etc\Programmering\Fooling around\ConsoleHangman\ConsoleHangman\obj\Debug\net8.0-windows\ConsoleHangman.dll
+C:\Mymh\Hemma, IT, guider etc\Programmering\Fooling around\ConsoleHangman\ConsoleHangman\obj\Debug\net8.0-windows\refint\ConsoleHangman.dll
+C:\Mymh\Hemma, IT, guider etc\Programmering\Fooling around\ConsoleHangman\ConsoleHangman\obj\Debug\net8.0-windows\ConsoleHangman.pdb
+C:\Mymh\Hemma, IT, guider etc\Programmering\Fooling around\ConsoleHangman\ConsoleHangman\obj\Debug\net8.0-windows\ConsoleHangman.genruntimeconfig.cache
+C:\Mymh\Hemma, IT, guider etc\Programmering\Fooling around\ConsoleHangman\ConsoleHangman\obj\Debug\net8.0-windows\ref\ConsoleHangman.dll
+C:\DevProj\ConsoleHangman\ConsoleHangman\bin\Debug\net8.0-windows\ConsoleHangman.exe
+C:\DevProj\ConsoleHangman\ConsoleHangman\bin\Debug\net8.0-windows\ConsoleHangman.deps.json
+C:\DevProj\ConsoleHangman\ConsoleHangman\bin\Debug\net8.0-windows\ConsoleHangman.runtimeconfig.json
+C:\DevProj\ConsoleHangman\ConsoleHangman\bin\Debug\net8.0-windows\ConsoleHangman.dll
+C:\DevProj\ConsoleHangman\ConsoleHangman\bin\Debug\net8.0-windows\ConsoleHangman.pdb
+C:\DevProj\ConsoleHangman\ConsoleHangman\obj\Debug\net8.0-windows\ConsoleHangman.Main.resources
+C:\DevProj\ConsoleHangman\ConsoleHangman\obj\Debug\net8.0-windows\ConsoleHangman.csproj.GenerateResource.cache
+C:\DevProj\ConsoleHangman\ConsoleHangman\obj\Debug\net8.0-windows\ConsoleHangman.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevProj\ConsoleHangman\ConsoleHangman\obj\Debug\net8.0-windows\ConsoleHangman.AssemblyInfoInputs.cache
+C:\DevProj\ConsoleHangman\ConsoleHangman\obj\Debug\net8.0-windows\ConsoleHangman.AssemblyInfo.cs
+C:\DevProj\ConsoleHangman\ConsoleHangman\obj\Debug\net8.0-windows\ConsoleHangman.csproj.CoreCompileInputs.cache
+C:\DevProj\ConsoleHangman\ConsoleHangman\obj\Debug\net8.0-windows\ConsoleHangman.dll
+C:\DevProj\ConsoleHangman\ConsoleHangman\obj\Debug\net8.0-windows\refint\ConsoleHangman.dll
+C:\DevProj\ConsoleHangman\ConsoleHangman\obj\Debug\net8.0-windows\ConsoleHangman.pdb
+C:\DevProj\ConsoleHangman\ConsoleHangman\obj\Debug\net8.0-windows\ConsoleHangman.genruntimeconfig.cache
+C:\DevProj\ConsoleHangman\ConsoleHangman\obj\Debug\net8.0-windows\ref\ConsoleHangman.dll

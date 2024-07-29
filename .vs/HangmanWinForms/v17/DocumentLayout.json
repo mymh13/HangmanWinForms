@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DevProj\\HangmanWinForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{039E8241-E180-42AE-8830-D379E63D746E}|ConsoleHangman\\HangmanWinForms.csproj|c:\\devproj\\hangmanwinforms\\consolehangman\\gamemechanics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{039E8241-E180-42AE-8830-D379E63D746E}|ConsoleHangman\\HangmanWinForms.csproj|solutionrelative:consolehangman\\gamemechanics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{039E8241-E180-42AE-8830-D379E63D746E}|ConsoleHangman\\HangmanWinForms.csproj|C:\\DevProj\\HangmanWinForms\\consolehangman\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{039E8241-E180-42AE-8830-D379E63D746E}|ConsoleHangman\\HangmanWinForms.csproj|solutionrelative:consolehangman\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{039E8241-E180-42AE-8830-D379E63D746E}|ConsoleHangman\\HangmanWinForms.csproj|C:\\DevProj\\HangmanWinForms\\consolehangman\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{039E8241-E180-42AE-8830-D379E63D746E}|ConsoleHangman\\HangmanWinForms.csproj|solutionrelative:consolehangman\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{039E8241-E180-42AE-8830-D379E63D746E}|ConsoleHangman\\HangmanWinForms.csproj|C:\\DevProj\\HangmanWinForms\\consolehangman\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{039E8241-E180-42AE-8830-D379E63D746E}|ConsoleHangman\\HangmanWinForms.csproj|solutionrelative:consolehangman\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{039E8241-E180-42AE-8830-D379E63D746E}|ConsoleHangman\\HangmanWinForms.csproj|C:\\DevProj\\HangmanWinForms\\consolehangman\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{039E8241-E180-42AE-8830-D379E63D746E}|ConsoleHangman\\HangmanWinForms.csproj|solutionrelative:consolehangman\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\DevProj\\HangmanWinForms\\ConsoleHangman\\MainForm.cs",
+              "RelativeDocumentMoniker": "ConsoleHangman\\MainForm.cs",
+              "ToolTip": "C:\\DevProj\\HangmanWinForms\\ConsoleHangman\\MainForm.cs",
+              "RelativeToolTip": "ConsoleHangman\\MainForm.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAkwBYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T19:05:38.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DevProj\\HangmanWinForms\\ConsoleHangman\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleHangman\\Program.cs",
+              "ToolTip": "C:\\DevProj\\HangmanWinForms\\ConsoleHangman\\Program.cs",
+              "RelativeToolTip": "ConsoleHangman\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T18:59:21.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\DevProj\\HangmanWinForms\\ConsoleHangman\\Player.cs",
+              "RelativeDocumentMoniker": "ConsoleHangman\\Player.cs",
+              "ToolTip": "C:\\DevProj\\HangmanWinForms\\ConsoleHangman\\Player.cs",
+              "RelativeToolTip": "ConsoleHangman\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T18:58:22.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameMechanics.cs",
+              "DocumentMoniker": "C:\\DevProj\\HangmanWinForms\\ConsoleHangman\\GameMechanics.cs",
+              "RelativeDocumentMoniker": "ConsoleHangman\\GameMechanics.cs",
+              "ToolTip": "C:\\DevProj\\HangmanWinForms\\ConsoleHangman\\GameMechanics.cs",
+              "RelativeToolTip": "ConsoleHangman\\GameMechanics.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T18:47:38.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\DevProj\\HangmanWinForms\\ConsoleHangman\\MainForm.cs",
+              "RelativeDocumentMoniker": "ConsoleHangman\\MainForm.cs",
+              "ToolTip": "C:\\DevProj\\HangmanWinForms\\ConsoleHangman\\MainForm.cs [Design]",
+              "RelativeToolTip": "ConsoleHangman\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T18:40:08.923Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
